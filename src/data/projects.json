@@ -1,17 +1,17 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "title": "Doorsmeer App",
+      "imageSrc": "projects/doorsmeer.png",
+      "description": "Doorsmeer App is an application designed for makes it easier for doorsmeer businesses to manage customer data and carry out transaction processes",
+      "skills": ["PHP", "Bootstrap"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
+      "title": "Landing Page",
+      "imageSrc": "projects/landing-page.png",
+      "description": "Landing Page is an application designed to advertise a company to visitors, to generate conversions from visitors, for sales company.",
+      "skills": ["HTML", "CSS"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     },
