@@ -6,7 +6,7 @@ import styles from "./SertifikatCard.module.css";
 import { getImageUrl } from "../../utils";
 
 export const SertifikatCard = ({
-  sertifikat: { title, imageSrc },
+  sertifikat: { title, imageSrc, verifikasi },
 }) => {
   return (
     <div className={styles.container}>
@@ -17,11 +17,8 @@ export const SertifikatCard = ({
       />
       <h3 className={styles.title}>{title}</h3>
       <div className={styles.links}>
-        <a href="#" className={styles.link}>
-          Demo
-        </a>
-        <a href="#" className={styles.link}>
-          Source
+        <a href={verifikasi} className={styles.link}>
+          Verifikasi
         </a>
       </div>
     </div>

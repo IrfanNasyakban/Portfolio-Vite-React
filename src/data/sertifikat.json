@@ -1,14 +1,110 @@
 [
     {
       "title": "Bangkit Academy Batch 2 2023",
-      "imageSrc": "skills/html.png"
+      "imageSrc": "",
+      "description": "Bangkit Academy",
+      "verifikasi": ""
     },
     {
-      "title": "CSS",
-      "imageSrc": "skills/css.png"
+      "title": "System Administration and IT Infrastructure Services",
+      "imageSrc": "sertifikat/coursera1.jpg",
+      "description": "Coursera",
+      "verifikasi": "https://coursera.org/share/0f7dd34d873054fc723c45f6bc17ba8f"
     },
     {
-      "title": "React",
-      "imageSrc": "skills/react.png"
+      "title": "The Bits and Bytes of Computer Networking",
+      "imageSrc": "sertifikat/coursera2.jpg",
+      "description": "Coursera",
+      "verifikasi": "https://coursera.org/share/ffd8881ddb9d4cdf9ab3a9d39fbcf5e2"
+    },
+    {
+      "title": "Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud",
+      "imageSrc": "sertifikat/dicoding1.jpg",
+      "description": "Dicoding",
+      "verifikasi": "https://www.dicoding.com/certificates/2VX36JV2NXYQ"
+    },
+    {
+      "title": "Belajar Membuat Front-End Web untuk Pemula",
+      "imageSrc": "sertifikat/dicodingfrontend.jpg",
+      "description": "Dicoding",
+      "verifikasi": "https://www.dicoding.com/certificates/L4PQ635N2PO1"
+    },
+    {
+      "title": "Memulai Dasar Pemrograman untuk Menjadi Pengembang Software",
+      "imageSrc": "sertifikat/dicoding2.jpg",
+      "description": "Dicoding",
+      "verifikasi": "https://www.dicoding.com/certificates/6RPNWNJMQP2M"
+    },
+    {
+      "title": "Menjadi Google Cloud Engineer",
+      "imageSrc": "sertifikat/dicoding3.jpg",
+      "description": "Dicoding",
+      "verifikasi": "https://www.dicoding.com/certificates/98XWV77OLPM3"
+    },
+    {
+      "title": "Pengenalan ke Logika Pemrograman (Programming Logic 101)",
+      "imageSrc": "sertifikat/dicoding4.jpg",
+      "description": "Dicoding",
+      "verifikasi": "https://www.dicoding.com/certificates/EYX465W1JPDL"
+    },
+    {
+      "title": "Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)",
+      "imageSrc": "sertifikat/dicodingcloud.jpg",
+      "description": "Dicoding",
+      "verifikasi": "https://www.dicoding.com/certificates/1RXY63WMQZVM"
+    },
+    {
+      "title": "Belajar Dasar-Dasar DevOps",
+      "imageSrc": "sertifikat/dicodingdevops.jpg",
+      "description": "Dicoding",
+      "verifikasi": "https://www.dicoding.com/certificates/1OP850OKVPQK"
+    },
+    {
+      "title": "Belajar Dasar Git dengan GitHub",
+      "imageSrc": "sertifikat/dicoding5.jpg",
+      "description": "Dicoding",
+      "verifikasi": "https://www.dicoding.com/certificates/GRX5QQL1KZ0M"
+    },
+    {
+      "title": "Belajar Dasar Pemrograman Web",
+      "imageSrc": "sertifikat/dicoding6.jpg",
+      "description": "Dicoding",
+      "verifikasi": "https://www.dicoding.com/certificates/81P23Y75NXOY"
+    },
+    {
+      "title": "Belajar Dasar Pemrograman JavaScript",
+      "imageSrc": "sertifikat/dicoding7.jpg",
+      "description": "Dicoding",
+      "verifikasi": "https://www.dicoding.com/certificates/QLZ9R80VMP5D"
+    },
+    {
+      "title": "JavaScript (Basic)",
+      "imageSrc": "sertifikat/hackerrank1.jpg",
+      "description": "HackerRank",
+      "verifikasi": "https://www.hackerrank.com/certificates/aa944289127f"
+    },
+    {
+      "title": "Python (Basic)",
+      "imageSrc": "sertifikat/hackerrank2.jpg",
+      "description": "HackerRank",
+      "verifikasi": "https://www.hackerrank.com/certificates/09181f29a853"
+    },
+    {
+      "title": "SQL (Basic)",
+      "imageSrc": "sertifikat/hackerrank3.jpg",
+      "description": "HackerRank",
+      "verifikasi": "https://www.hackerrank.com/certificates/4c9720983ad5"
+    },
+    {
+      "title": "Responsive Web Design",
+      "imageSrc": "sertifikat/freecode1.png",
+      "description": "FreeCodeCamp",
+      "verifikasi": "https://www.freecodecamp.org/certification/irvannasyakban/responsive-web-design"
+    },
+    {
+      "title": "JavaScript Algorithms and Data Structures",
+      "imageSrc": "sertifikat/freecode2.png",
+      "description": "FreeCodeCamp",
+      "verifikasi": "https://www.freecodecamp.org/certification/irvannasyakban/javascript-algorithms-and-data-structures"
     }
 ]

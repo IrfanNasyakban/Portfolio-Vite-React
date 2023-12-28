@@ -4,8 +4,8 @@
       "imageSrc": "projects/doorsmeer.png",
       "description": "Doorsmeer App is an application designed for makes it easier for doorsmeer businesses to manage customer data and carry out transaction processes",
       "skills": ["PHP", "Bootstrap"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "",
+      "source": "https://github.com/IrfanNasyakban/doorsmeer"
     },
     {
       "title": "Landing Page",
@@ -13,14 +13,22 @@
       "description": "Landing Page is an application designed to advertise a company to visitors, to generate conversions from visitors, for sales company.",
       "skills": ["HTML", "CSS"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/IrfanNasyakban/zaskarya.github.io"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Mentor Heal App",
+      "imageSrc": "projects/mentorheal.png",
+      "description": "Mental health is a major problem because it has a significant impact on the lives of individuals, families and society.",
+      "skills": ["Kotlin", "Jetpack Compose"],
+      "demo": "https://drive.google.com/drive/folders/1K5bcjlCDpkXu8KoXZjUJgIXoGl7AInyN",
+      "source": "https://github.com/orgs/HealMentor/repositories"
+    },
+    {
+      "title": "Manajemen SPP",
+      "imageSrc": "projects/manajemen.png",
+      "description": "The Tuition Fee Management App is an application designed to make things easier for us to do paying tuition fees at school via online application.",
+      "skills": ["Flutter", "Dart"],
+      "demo": "",
+      "source": "https://github.com/IrfanNasyakban/Manajemen-Spp-Flutter"
     }
   ]

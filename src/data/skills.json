@@ -30,5 +30,13 @@
     {
       "title": "GIT",
       "imageSrc": "skills/git.png"
+    },
+    {
+      "title": "Flutter",
+      "imageSrc": "skills/flutter.png"
+    },
+    {
+      "title": "Dart",
+      "imageSrc": "skills/dart.png"
     }
   ]
