@@ -68,4 +68,8 @@
     flex-direction: row;
     justify-content: center;
   }
+
+  .title {
+    font-size: 30px;
+  }
 }

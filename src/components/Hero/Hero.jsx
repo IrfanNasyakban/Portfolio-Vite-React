@@ -11,8 +11,11 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Irvan Nasyakban</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with 5 years of experience using React and
-          NodeJS. Reach out if you'd like to learn more!
+          Having an interest in the IT world such as Fullstack Developer,
+          <br />
+          I have a desire to present innovative and efficient technology solutions. 
+          <br />
+          And I am also interested in learning about Cloud Computing
         </p>
         <a href="mailto:myemail@email.com" className={styles.contactBtn}>
           Contact Me
